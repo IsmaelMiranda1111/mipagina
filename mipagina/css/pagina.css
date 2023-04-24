@@ -17,11 +17,13 @@ h4{
 }
 
 .imagen {
-    text-align: center;
+    width: 150px    ;
+    margin: 0 15px;
 }
 
 .imagenjuego{
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 body {
